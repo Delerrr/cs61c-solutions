@@ -1,4 +1,5 @@
-1.
+1. -rm -rf core *.o *~ "#"*"#" Makefile.bak $(BINARIES) *.dSYM
+
 2.
 3.
 4.
